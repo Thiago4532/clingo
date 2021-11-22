@@ -1,0 +1,2 @@
+# clingo
+Simple Clipboard Manager
